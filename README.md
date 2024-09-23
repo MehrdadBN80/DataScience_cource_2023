@@ -29,16 +29,5 @@ The course covers the following key topics:
 
 Each topic is supported by lecture slides that provide detailed insights and examples to enhance understanding.
 
-## About
-This repository includes projects and code relevant to the Data Science course.
-
-## Repository Details
-- **Stars**: 0
-- **Watchers**: 1
-- **Forks**: 0
-- **Releases**: No releases published
-- **Packages**: No packages published
-- **Languages**: Jupyter Notebook (100%)
-
 ## Resources
 For more information, refer to the course materials and assignments in this repository.
